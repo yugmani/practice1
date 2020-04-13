@@ -1,0 +1,1 @@
+document.write("I love writing Javascript, and using external files!");
